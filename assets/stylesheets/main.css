@@ -1,0 +1,30 @@
+.container {
+	width: 100%;
+}
+
+#defaultCanvas {
+	display: block;
+	margin: 0 auto;
+}
+
+.buttons {
+	margin: 10px 0 5px 0;
+	text-align: center;
+}
+
+.buttons button {
+	display: inline-block;
+}
+
+#aSlider {
+	display: inline;
+	width: 150px;
+}
+
+.sliderStuff {
+	display: inline-block;
+}
+
+.slider {
+	display: inline-block;
+}
